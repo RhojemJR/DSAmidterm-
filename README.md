@@ -36,7 +36,8 @@ React requires Node.js, which comes with npm (Node Package Manager), a tool used
 1. **Download Node.js:** 
     - Visit the official Node.js website: [Node.js official website](https://nodejs.org/en).
     - Download and install the LTS version (recommended for most users).
-2. **Verify Installation:** After installing, open your terminal (Command Prompt on Windows or Terminal on macOS/Linux) and check if Node.js and npm were installed correctly: 
+2. **Verify Installation:** 
+    - After installing, open your terminal (Command Prompt on Windows or Terminal on macOS/Linux) and check if Node.js and npm were installed correctly: 
 ```js 
 node -v
 npm -v
@@ -62,8 +63,8 @@ npm start
 ```
 5. **Edit Your First React Component:**
   Open the project folder in a code editor (like Visual Studio Code).
-6. **Done!**
-  Now you have a basic React app running! You can start building and adding more components as you get comfortable.
+6. **Done!**__
+__Now you have a basic React app running! You can start building and adding more components as you get comfortable.
 
 
  
