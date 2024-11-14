@@ -46,13 +46,13 @@ npm -v
 > This should print the versions of Node.js and npm installed on your system.
 3. **Create a New React App**  <br />
 Now, let’s use Create React App to quickly set up your project.
--  Open your terminal and run
+-  Open your terminal and run:
 ```js
 npx create-react-app my-app
 ```
 > [!NOTE]
 >This creates a new folder named my-app with all the necessary files.
-- Navigate to the project folder
+- Navigate to the project folder:
 ```js
 cd my-app
 ```
