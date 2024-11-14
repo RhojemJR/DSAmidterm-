@@ -36,6 +36,7 @@ React requires Node.js, which comes with npm (Node Package Manager), a tool used
 1. **Download Node.js:** 
     - Visit the official Node.js website: [Node.js official website](https://nodejs.org/en).
     - Download and install the LTS version (recommended for most users).
+
     
 2. **Verify Installation:** 
     - After installing, open your terminal (Command Prompt on Windows or Terminal on macOS/Linux) and check if Node.js and npm were installed correctly: 
