@@ -27,7 +27,13 @@ React uses a concept called the virtual DOM to render and refresh the user inter
 ### Prerequiste Apps
 > [!IMPORTANT]
 > Before you begin setting up React, ensure that you have the following installed on your system:
-- **Node.js:** React requires Node.js to run. It’s a JavaScript runtime that allows you to execute JavaScript code outside the browser. You can download and install it from [Node.js official website.]()
+- **Node.js:** React requires Node.js to run. It’s a JavaScript runtime that allows you to execute JavaScript code outside the browser. You can download and install it from [Node.js official website](https://nodejs.org/en).
   - React and its dependencies are among the packages that may be managed with npm (Node Package Manager), which is included with Node.js.
-- **Code Editor:** Although any text editor can be used, Visual Studio Code (VSCode) is strongly advised due to its React-specific add-ons, including code formatting, debugging tools, and auto-completion.
+- **Code Editor:** Although any text editor can be used, [Visual Studio Code](https://code.visualstudio.com/) (VSCode) is strongly advised due to its React-specific add-ons, including code formatting, debugging tools, and auto-completion.
 ###  Setting Up a React Application
+**Install Node.js and npm**
+React requires Node.js, which comes with npm (Node Package Manager), a tool used to install libraries and dependencies.
+1. **Download Node.js:** 
+    - Visit the official Node.js website: [Node.js official website](https://nodejs.org/en).
+    - Download and install the LTS version (recommended for most users).
+2. **Verify Installation:** After installing, open your terminal (Command Prompt on Windows or Terminal on macOS/Linux) and check if Node.js and npm were installed correctly: 
