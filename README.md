@@ -24,7 +24,7 @@ React uses a concept called the virtual DOM to render and refresh the user inter
 
 ## How to Set Up React JS?
 
-### Prerequiste Apps
+### IMPORTANT APPS!!!
 > [!IMPORTANT]
 > Before you begin setting up React, ensure that you have the following installed on your system:
 - **Node.js:** React requires Node.js to run. It’s a JavaScript runtime that allows you to execute JavaScript code outside the browser. You can download and install it from [Node.js official website](https://nodejs.org/en).
