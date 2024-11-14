@@ -44,13 +44,13 @@ React requires Node.js, which comes with npm (Node Package Manager), a tool used
 3. **Create a New React App**
 Now, let’s use Create React App to quickly set up your project.
 - Open your terminal and run:
-```npx create-react-app my-app```
+`npx create-react-app my-app`
   - This creates a new folder named my-app with all the necessary files.
 - Navigate to the project folder:
-```cd my-app``` 
+`cd my-app`
 4. **Start the Development Server**
 - In the terminal, run:
-```npm start```
+`npm start`
 5. **Edit Your First React Component**
 - Open the project folder in a code editor (like Visual Studio Code).
 6. **Done!**
