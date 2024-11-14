@@ -44,24 +44,24 @@ npm -v
 ```
 > [!NOTE]
 > This should print the versions of Node.js and npm installed on your system.
-3. **Create a New React App:**  <br />
+3. **Create a New React App**  <br />
 Now, let’s use Create React App to quickly set up your project.
-   -  Open your terminal and run:
+-  Open your terminal and run
 ```js
 npx create-react-app my-app
 ```
 > [!NOTE]
 >This creates a new folder named my-app with all the necessary files.
-   - Navigate to the project folder:
+- Navigate to the project folder
 ```js
 cd my-app
 ```
-4. **Start the Development Server:** <br />
-In the terminal, run:
+4. **Start the Development Server** <br />
+- In the terminal, run:
 ```js
 npm start
 ```
-5. **Edit Your First React Component:**  <br />
+5. **Edit Your First React Component**  <br />
 Open the project folder in a code editor (like Visual Studio Code).
 6. **Done!** <br />
 Now you have a basic React app running! You can start building and adding more components as you get comfortable.
